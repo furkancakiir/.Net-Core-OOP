@@ -1,0 +1,7 @@
+C:\Users\thuck\source\repos\Class Course\Class Course\bin\Debug\Class Course.exe.config
+C:\Users\thuck\source\repos\Class Course\Class Course\bin\Debug\Class Course.exe
+C:\Users\thuck\source\repos\Class Course\Class Course\bin\Debug\Class Course.pdb
+C:\Users\thuck\source\repos\Class Course\Class Course\obj\Debug\Class Course.csproj.CoreCompileInputs.cache
+C:\Users\thuck\source\repos\Class Course\Class Course\obj\Debug\Class Course.exe
+C:\Users\thuck\source\repos\Class Course\Class Course\obj\Debug\Class Course.pdb
+C:\Users\thuck\source\repos\Class Course\Class Course\obj\Debug\Class Course.csprojAssemblyReference.cache

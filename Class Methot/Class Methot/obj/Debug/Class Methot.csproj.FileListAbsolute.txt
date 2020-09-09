@@ -1,0 +1,7 @@
+C:\Users\thuck\source\repos\Class Methot\Class Methot\bin\Debug\Class Methot.exe.config
+C:\Users\thuck\source\repos\Class Methot\Class Methot\bin\Debug\Class Methot.exe
+C:\Users\thuck\source\repos\Class Methot\Class Methot\bin\Debug\Class Methot.pdb
+C:\Users\thuck\source\repos\Class Methot\Class Methot\obj\Debug\Class Methot.csproj.CoreCompileInputs.cache
+C:\Users\thuck\source\repos\Class Methot\Class Methot\obj\Debug\Class Methot.exe
+C:\Users\thuck\source\repos\Class Methot\Class Methot\obj\Debug\Class Methot.pdb
+C:\Users\thuck\source\repos\Class Methot\Class Methot\obj\Debug\Class Methot.csprojAssemblyReference.cache

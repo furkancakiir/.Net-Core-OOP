@@ -1,0 +1,7 @@
+C:\Users\thuck\source\repos\Yapıcı Metot Uygulama\Yapıcı Metot Uygulama\bin\Debug\Yapıcı Metot Uygulama.exe.config
+C:\Users\thuck\source\repos\Yapıcı Metot Uygulama\Yapıcı Metot Uygulama\bin\Debug\Yapıcı Metot Uygulama.exe
+C:\Users\thuck\source\repos\Yapıcı Metot Uygulama\Yapıcı Metot Uygulama\bin\Debug\Yapıcı Metot Uygulama.pdb
+C:\Users\thuck\source\repos\Yapıcı Metot Uygulama\Yapıcı Metot Uygulama\obj\Debug\Yapıcı Metot Uygulama.csprojAssemblyReference.cache
+C:\Users\thuck\source\repos\Yapıcı Metot Uygulama\Yapıcı Metot Uygulama\obj\Debug\Yapıcı Metot Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\thuck\source\repos\Yapıcı Metot Uygulama\Yapıcı Metot Uygulama\obj\Debug\Yapıcı Metot Uygulama.exe
+C:\Users\thuck\source\repos\Yapıcı Metot Uygulama\Yapıcı Metot Uygulama\obj\Debug\Yapıcı Metot Uygulama.pdb

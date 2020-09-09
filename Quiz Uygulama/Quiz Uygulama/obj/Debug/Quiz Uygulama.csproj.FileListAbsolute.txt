@@ -1,0 +1,7 @@
+C:\Users\thuck\source\repos\Quiz Uygulama\Quiz Uygulama\bin\Debug\Quiz Uygulama.exe.config
+C:\Users\thuck\source\repos\Quiz Uygulama\Quiz Uygulama\bin\Debug\Quiz Uygulama.exe
+C:\Users\thuck\source\repos\Quiz Uygulama\Quiz Uygulama\bin\Debug\Quiz Uygulama.pdb
+C:\Users\thuck\source\repos\Quiz Uygulama\Quiz Uygulama\obj\Debug\Quiz Uygulama.csprojAssemblyReference.cache
+C:\Users\thuck\source\repos\Quiz Uygulama\Quiz Uygulama\obj\Debug\Quiz Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\thuck\source\repos\Quiz Uygulama\Quiz Uygulama\obj\Debug\Quiz Uygulama.exe
+C:\Users\thuck\source\repos\Quiz Uygulama\Quiz Uygulama\obj\Debug\Quiz Uygulama.pdb
